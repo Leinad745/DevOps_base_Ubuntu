@@ -1,3 +1,5 @@
+#ERROR DE PLAN, NECESITA ARREGLARSE
+
 provider "aws" {
   region = "us-east-1"
 }
